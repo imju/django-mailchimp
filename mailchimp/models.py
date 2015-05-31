@@ -1,5 +1,5 @@
 from django.db import models
-from django.utils import simplejson
+from django.utils import json
 from django.contrib.contenttypes.models import ContentType
 from django.contrib.contenttypes import generic
 from django.core.urlresolvers import reverse
